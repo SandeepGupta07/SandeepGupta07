@@ -7,7 +7,7 @@
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/SandeepGupta07/SandeepGupta07/blob/main/code.gif?raw=true" style="border-radius: 10px" width="400" height="220" />
+  <img align="right" alt="GIF" src="https://github.com/SandeepGupta07/SandeepGupta07/blob/main/code.gif?raw=true" style="border-radius: 10px" width="500" height="320" />
   
 
 
